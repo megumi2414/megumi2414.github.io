@@ -110,7 +110,7 @@ disqushandler: "<YOUR DISQUS SHORTNAME>"
 
 ## Jekyll collections
 
-Jekyll's [collections][15] is supported to organize the pages in a more fine-grained manner, e.g.,
+二十二Jekyll's [collections][15] is supported to organize the pages in a more fine-grained manner, e.g.,
 
 ```yaml
 collections:
@@ -124,7 +124,7 @@ collections:
     permalink: /:collection/:year-:month-:day-:title:output_ext
 ```
 
-An optional `ordered_collections` key can be added to `_config.yaml` to control the order of collections in the sidebar:
+二十三、An optional `ordered_collections` key can be added to `_config.yaml` to control the order of collections in the sidebar:
 
 ```yaml
 ordered_collections:
@@ -133,12 +133,12 @@ ordered_collections:
   - others
 ```
 
-If not specified, the order of collections would be decided by Jekyll. Note that the key `posts` is a special collection
+二十四、If not specified, the order of collections would be decided by Jekyll. Note that the key `posts` is a special collection
 that indicates the `_posts` pages of Jekyll.
 
 ## Extra StyleSheet or Javascript elements
 
-You can add extra CSS or JavaScript references using configuration collections:
+二十五、You can add extra CSS or JavaScript references using configuration collections:
 
 - extra_css: for additional style sheets. If the url does not start by http, the path must be relative to the root of the site, without a starting `/`.
 - extra_header_js: for additional scripts to be included in the `<head>` tag, after the `extra_css` has been added. If the url does not start by http, the path must be relative to the root of the site, without a starting `/`.
@@ -146,7 +146,7 @@ You can add extra CSS or JavaScript references using configuration collections:
 
 ## Customizing font settings
 
-The fonts can be customized by modifying the `.book.font-family-0` and `.book.font-family-1` entry in [`./assets/gitbook/custom.css`][10],
+二十六、The fonts can be customized by modifying the `.book.font-family-0` and `.book.font-family-1` entry in [`./assets/gitbook/custom.css`][10],
 
 ```css
 .book.font-family-0 {
@@ -159,7 +159,7 @@ The fonts can be customized by modifying the `.book.font-family-0` and `.book.fo
 
 ## Tips, Warnings and Dangers blocks
 
-The jekyll-gitbook theme supports customized kramdown attributes (`{: .block-tip }`, `{: .block-warning }`,
+二十七、The jekyll-gitbook theme supports customized kramdown attributes (`{: .block-tip }`, `{: .block-warning }`,
 `{: .block-danger }`) like that displayed in [the discord.js website][11]. The marker can be used like
 
 ```markdown
@@ -170,7 +170,7 @@ The jekyll-gitbook theme supports customized kramdown attributes (`{: .block-tip
 {: .block-tip }
 ```
 
-Rendered page can be previewed from
+二十八、Rendered page can be previewed from
 
 [https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html](https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html)
 
@@ -214,9 +214,9 @@ The example can be previewed from
 
 ## License
 
-This work is open sourced under the Apache License, Version 2.0.
+二十九、This work is open sourced under the Apache License, Version 2.0.
 
-Copyright 你妈的.
+Copyright abcdefg.
 
 [1]: https://pages.github.com
 [2]: https://pages.github.com/themes
