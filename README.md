@@ -3,9 +3,15 @@ layout: 一、home
 title: 二、Jekyll Gitbook Theme
 permalink: /
 ---
+这里是咩咕，藤岛慈推
+
+好想当藤岛慈小姐的狗（bushi）
+
 不会写主页（恼）
 
 正在用别人的模版，以下中文数字为标记
+
+后面慢慢删吧（笑）
 
 
 三、Make Jelly site have a GitBook look!
