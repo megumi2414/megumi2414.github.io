@@ -4,6 +4,7 @@ title: 二、Jekyll Gitbook Theme
 permalink: /
 ---
 不会写主页（恼）
+
 正在用别人的模版，以下中文数字为标记
 
 
