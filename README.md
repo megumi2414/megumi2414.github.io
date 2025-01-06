@@ -14,7 +14,7 @@ permalink: /
 后面慢慢删吧（笑）
 
 
-三、Make Jelly site have a GitBook look!
+#三、Make Jelly site have a GitBook look!
 
 ## Demo
 
