@@ -14,8 +14,6 @@ permalink: /
 后面慢慢删吧（笑）
 
 
-##三、Make Jelly site have a GitBook look!
-
 ## Demo
 
 四、Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
