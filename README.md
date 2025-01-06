@@ -184,7 +184,7 @@ that indicates the `_posts` pages of Jekyll.
 
 ## Cover image inside pages
 
-The jekyll-gitbook theme supports adding a cover image to a specific page by adding
+二十九、The jekyll-gitbook theme supports adding a cover image to a specific page by adding
 a `cover` field to the page metadata:
 
 ```diff
@@ -198,16 +198,16 @@ a `cover` field to the page metadata:
   ---
 ```
 
-The effect can be previewed from
+三十、The effect can be previewed from
 
 [https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-05-24-page_cover.html](https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-05-24-page_cover.html)
 
 ## Diagrams with mermaid.js
 
-This jekyll-theme supports [mermaid.js](https://mermaid.js.org/) to render diagrams
+三十一、This jekyll-theme supports [mermaid.js](https://mermaid.js.org/) to render diagrams
 in markdown.
 
-To enable the mermaid support, you need to set `mermaid: true` in the front matter
+三十二、To enable the mermaid support, you need to set `mermaid: true` in the front matter
 of your post.
 
 ```markdown
@@ -216,13 +216,13 @@ mermaid: true
 ---
 ```
 
-The example can be previewed from
+三十三、The example can be previewed from
 
 [https://sighingnow.github.io/jekyll-gitbook/jekyll/2023-08-31-mermaid.html](https://sighingnow.github.io/jekyll-gitbook/jekyll/2023-08-31-mermaid.html)
 
 ## License
 
-二十九、This work is open sourced under the Apache License, Version 2.0.
+三十四、This work is open sourced under the Apache License, Version 2.0.
 
 Copyright abcdefg.
 
